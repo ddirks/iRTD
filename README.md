@@ -17,4 +17,5 @@ maybe conflicting git config files?
 
 soooo many git config files!
 
+Another tack, with ssh keys
 
