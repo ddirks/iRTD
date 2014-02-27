@@ -15,3 +15,6 @@ Was it just cached?
 
 maybe conflicting git config files?
 
+soooo many git config files!
+
+
