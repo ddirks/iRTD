@@ -19,3 +19,6 @@ soooo many git config files!
 
 Another tack, with ssh keys
 
+Github changed to know ddirks@newhart.unidata.ucar.edu
+
+
