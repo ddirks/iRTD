@@ -26,3 +26,5 @@ Okay, another test.
 And another...
 
 Now an edit made on GitHub!
+
+This one comes from Cosmo.
